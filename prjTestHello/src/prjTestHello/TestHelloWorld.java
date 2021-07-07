@@ -8,6 +8,7 @@ public class TestHelloWorld {
 		System.out.println("another line added");
 		System.out.println("line 04:43");
 		System.out.println("line 04:45");
+		System.out.println("line 04:47");
 	}
 
 }
