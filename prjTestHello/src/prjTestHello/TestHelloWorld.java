@@ -7,6 +7,7 @@ public class TestHelloWorld {
 		System.out.println("Hellow world!");
 		System.out.println("another line added");
 		System.out.println("line 04:43");
+		System.out.println("line 04:45");
 	}
 
 }
